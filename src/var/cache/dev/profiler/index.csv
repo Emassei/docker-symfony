@@ -1,0 +1,4 @@
+ca68eb,172.30.0.1,GET,http://localhost:8000/,1627302383,,404
+c39453,172.30.0.1,GET,http://localhost:8000/favicon.ico,1627302383,878ae0,404
+878ae0,172.30.0.1,GET,http://localhost:8000/favicon.ico,1627302383,,404
+24bc7e,172.30.0.1,GET,http://localhost:8000/lucky/number,1627302549,,200
